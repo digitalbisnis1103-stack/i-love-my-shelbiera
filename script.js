@@ -4,7 +4,7 @@
 ========================================= */
 
 const CONFIG = {
-  senderName: "you",
+  senderName: "Keil",
   partnerName: "Shelbiera",
 
   // Ganti dengan pesan customer.
@@ -12,7 +12,7 @@ const CONFIG = {
     "thanks a lot for being here. i always feel lucky & gratefull to have u, u really changed my life and always be my mrs. moodbooster forever. stay with me for a long long time ya.",
 
   // Foto dan musik diletakkan di folder assets.
-  photo: "photo.jpeg",
+  photo: "photo.jpg",
   music: "music.mp3",
 
   // Kamu bisa mengganti kalimat opening.
@@ -332,9 +332,7 @@ function showResult(){
     title = "Pretty Good, But... 👀";
 
     copy =
-      `Not bad, kamu. Cukup kenal, tapi ada beberapa jawaban
-      yang bikin aku mungkin bilang,
-      “HAH? KOK SALAH?” 😭`;
+      `thanks a lot for playing the games.`;
 
     color = "var(--yellow)";
 
@@ -344,9 +342,7 @@ function showResult(){
     title = "How Are You Dating Me? 😭";
 
     copy =
-      `Kamu... kita perlu ngobrol. 💀
-      Kamu mungkin perlu lebih banyak dengerin cerita random,
-      nginget detail kecil, dan berhenti jawab “terserah” juga.`;
+      `thanks a lot for playing the games.`;
 
     color = "var(--red)";
   }
